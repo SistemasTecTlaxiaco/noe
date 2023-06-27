@@ -1,4 +1,8 @@
+NOE GARCIA PEDRO
+
 # Bienvenido al Curso de Campus Advisor de Aulas Agiles
+
+
 Bienvenido a la formación de Campus Advisor. ¡Estamos tan felices de que estés aquí!
 
 En esta capacitación, se le presentará una combinación de lecciones y asignaciones en video. Todos los videos y asignaciones se pueden encontrar en este repositorio en sus respectivos módulos.  
